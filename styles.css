@@ -8,13 +8,13 @@
 }
 
 .add{
-	background-color: white;
-	color: black;
+	background-color: white !important;
+	color: black !important;
 	border: 1px solid black;
 }
 
 .btn-primary{
-	background-color: purple;
+	background-color: blue !important;
 	
 }
 
