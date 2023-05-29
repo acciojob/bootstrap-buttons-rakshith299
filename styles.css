@@ -1,2 +1,22 @@
+.btn-warning{
+	width: 100%;
+}
 
-/* Your CSS Code here. */
+.btn-success{
+	width: 130px;
+	height: 60px;
+}
+
+.add{
+	background-color: white;
+	color: black;
+	border: 1px solid black;
+}
+
+.btn-primary{
+	background-color: purple;
+	
+}
+
+
+
